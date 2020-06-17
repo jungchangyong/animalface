@@ -191,6 +191,12 @@ body {
     margin: 0 auto;
 }
 
+#kakao_ad_fit {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .footer {
     background-color: initial;
     color: initial;
