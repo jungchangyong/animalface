@@ -131,7 +131,7 @@ body {
 }
 
 .section {
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 .title {
@@ -191,11 +191,8 @@ body {
     margin: 0 auto;
 }
 
-#kakao_ad_fit {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
+
+    
 
 .footer {
     background-color: initial;
@@ -393,6 +390,18 @@ body {
 .fox-animal-celeb {
     color: #31849b;
     font-size: 1.2rem;
+}
+
+/* .kakao_ad_fit{
+  display: flex;
+  justify-content: center;
+  flex-direction: wrap;
+} */
+
+.kakao_ad_fit{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 /* gender */
